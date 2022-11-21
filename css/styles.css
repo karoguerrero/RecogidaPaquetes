@@ -11526,17 +11526,7 @@ p {
     color: #4c6480;
     width: 100%;
 }
-.textEditor .ql-container {
-    position: relative;
-    font-size: 14px;
-    line-height: calc(1em + 8px);
-    font-weight: 400;
-    font-style: normal;
-    font-family: Roboto, sans-serif;
-    text-align: left;
-    color: #4c6480;
-    width: 100%;
-}
+
 .fm-Button {
     box-sizing: border-box;
     font-style: normal;
@@ -11544,13 +11534,7 @@ p {
     max-width: 20ch;
     width: fit-content;
 }
-.fm-Button {
-    box-sizing: border-box;
-    font-style: normal;
-    text-align: center;
-    max-width: 20ch;
-    width: fit-content;
-}
+
 body {
     margin: 0;
     font-family: var(--bs-body-font-family);
@@ -11632,9 +11616,6 @@ html {
     width: 100%;
     height: 100%;
 }
-
-
-
 
 .wireframe-template-product-273__item__container {
     padding: 0 24px 40px 24px;
