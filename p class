@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
 
-  <title>CodePen - Animated login form</title>
+  <title>Login</title>
   <link rel="stylesheet" media="screen" href="https://cpwebassets.codepen.io/assets/fullpage/fullpage-96f5da14bc71e5883d519b4eb5e93297dde552c2f91a97fcfb30035219cf1c1a.css">
   
   <script>
@@ -203,15 +203,15 @@ footer a, footer a:link {
 <body translate=&quot;no&quot; >
   <div class=&quot;wrapper&quot;>
   <form class=&quot;login&quot;>
-    <p class=&quot;title&quot;>Log in</p>
-    <input type=&quot;text&quot; placeholder=&quot;Username&quot; autofocus/>
+    <p class=&quot;title&quot;>Inicio de sesion</p>
+    <input type=&quot;text&quot; placeholder=&quot;Usuarioe&quot; autofocus/>
     <i class=&quot;fa fa-user&quot;></i>
-    <input type=&quot;password&quot; placeholder=&quot;Password&quot; />
+    <input type=&quot;password&quot; placeholder=&quot;Clave&quot; />
     <i class=&quot;fa fa-key&quot;></i>
-    <a href=&quot;#&quot;>Forgot your password?</a>
+    <a href=&quot;#&quot;>Olvido la clave?</a>
     <button>
       <i class=&quot;spinner&quot;></i>
-      <span class=&quot;state&quot;>Log in</span>
+      <span class=&quot;state&quot;>Entrar</span>
     </button>
   </form>
 </body>
