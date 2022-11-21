@@ -11423,5 +11423,251 @@ section {
     -webkit-box-orient: horizontal;
     white-space: normal;
     text-overflow: inherit;
+  
+  
+  .wrapper-d0-0-2-4 div .ql-editor p {
+    border-color: rgb(0, 128, 251);
+    color: rgb(255, 255, 255);
+    background: rgb(0, 128, 251);
+    font-size: 14px;
+    font-family: Roboto;
+    line-height: 22px;
+    font-weight: 500;
+    text-decoration: none;
+    text-transform: none;
+}
+.fm-Button .ql-editor p {
+    box-sizing: border-box;
+    border: 2px solid;
+    border-radius: 8px;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    min-height: 30px;
+}
+.textEditor .ql-editor * {
+    font-size: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    text-align: inherit;
+    color: inherit;
+    white-space: pre-wrap;
+    line-height: calc(1em + 8px);
+    word-break: break-word;
+}
+
+.textEditor .ql-container {
+    position: relative;
+    font-size: 14px;
+    line-height: calc(1em + 8px);
+    font-weight: 400;
+    font-style: normal;
+    font-family: Roboto, sans-serif;
+    text-align: left;
+    color: #4c6480;
+    width: 100%;
+}
+.fm-Button {
+    box-sizing: border-box;
+    font-style: normal;
+    text-align: center;
+    max-width: 20ch;
+    width: fit-content;
+}
+* {
+    box-sizing: border-box;
+    font-smooth: auto;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: Roboto, sans-serif;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.editable-content .ql-editor {
+    cursor: pointer;
+}
+.textEditor .ql-editor {
+    position: relative;
+    outline: none;
+    overflow: visible;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    tab-size: 4;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    cursor: text;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    text-align: inherit;
+    color: inherit;
+}
+.textEditor .ql-container {
+    position: relative;
+    font-size: 14px;
+    line-height: calc(1em + 8px);
+    font-weight: 400;
+    font-style: normal;
+    font-family: Roboto, sans-serif;
+    text-align: left;
+    color: #4c6480;
+    width: 100%;
+}
+.textEditor .ql-container {
+    position: relative;
+    font-size: 14px;
+    line-height: calc(1em + 8px);
+    font-weight: 400;
+    font-style: normal;
+    font-family: Roboto, sans-serif;
+    text-align: left;
+    color: #4c6480;
+    width: 100%;
+}
+.fm-Button {
+    box-sizing: border-box;
+    font-style: normal;
+    text-align: center;
+    max-width: 20ch;
+    width: fit-content;
+}
+.fm-Button {
+    box-sizing: border-box;
+    font-style: normal;
+    text-align: center;
+    max-width: 20ch;
+    width: fit-content;
+}
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body {
+    overflow: hidden;
+    color: #4c6480;
+}
+body {
+    line-height: 1;
+}
+
+html, button, input, select, textarea {
+    color: #222;
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+.wireframe-template-product-273__item__container {
+    padding: 0 24px 40px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+.fm-loader {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: inherit;
+    border: inherit;
+    border-radius: inherit;
+    opacity: 0;
+    pointer-events: none;
+    transition: 150ms ease-out;
+}
+.fm-loader__container {
+    width: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fm-loader--show {
+    opacity: 1;
+    pointer-events: auto;
+}
+.fm-wf-image-placeholder {
+    position: relative;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+.wireframe-template-product-273__item__container {
+    padding: 0 24px 40px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+.wireframe-template-product-273__item:not(:last-child) {
+    margin-right: 24px;
+}
+.wireframe-template-product-273__item {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    border-radius: 4px;
+}
+.wireframe-template-product-273__picture {
+    width: 100%;
+    height: 240px;
+    border-radius: 4px;
+}
+.fm-wf-image-placeholder__container {
+    height: 100%;
+    border-radius: inherit;
+}
+
+.wireframe-template-product-273__title {
+    margin: 15px 16px 4px 0;
+}
+.wireframe-template-product-273__price {
+    margin: 0 16px 0 0;
+}
     max-width: inherit;
 }
